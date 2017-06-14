@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 4181ecf6d8641e344ba99f636d5804a0
+timeCreated: 1462217422
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Gordon_0
+    21300002: Gordon_1
+    21300004: Gordon_2
+    21300006: Gordon_3
+    21300008: Gordon_4
+    21300010: Gordon_5
+    21300012: Gordon_6
+    21300014: Gordon_7
+    21300016: Gordon_8
+    21300018: Gordon_9
+    21300020: Gordon_10
+    21300022: Gordon_11
+    21300024: Gordon_12
+    21300026: Gordon_13
+    21300028: Gordon_14
+    21300030: Gordon_15
+    21300032: Gordon_16
+    21300034: Gordon_17
+    21300036: Gordon_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Gordon_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 42}
+        - {x: -24, y: 36}
+        - {x: -24, y: 10}
+        - {x: -22, y: 0}
+        - {x: 22, y: 0}
+        - {x: 28, y: 22}
+        - {x: 28, y: 42}
+    - name: Gordon_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 42}
+        - {x: -22, y: 0}
+        - {x: 28, y: 0}
+        - {x: 30, y: 28}
+        - {x: 30, y: 42}
+    - name: Gordon_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 42}
+        - {x: 8, y: 42}
+        - {x: 5, y: 41}
+        - {x: -13, y: 39}
+        - {x: -26, y: 34}
+        - {x: -26, y: 0}
+        - {x: 28, y: 0}
+        - {x: 28, y: 40}
+    - name: Gordon_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 42}
+        - {x: -24, y: 0}
+        - {x: 26, y: 0}
+        - {x: 28, y: 28}
+        - {x: 28, y: 42}
+    - name: Gordon_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 42}
+        - {x: -24, y: 36}
+        - {x: -24, y: 10}
+        - {x: -22, y: 0}
+        - {x: 22, y: 0}
+        - {x: 28, y: 22}
+        - {x: 28, y: 42}
+    - name: Gordon_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 42}
+        - {x: 6, y: 42}
+        - {x: 5, y: 41}
+        - {x: -21, y: 38}
+        - {x: -24, y: 36}
+        - {x: -24, y: 0}
+        - {x: 20, y: 0}
+        - {x: 24, y: 13}
+        - {x: 28, y: 31}
+    - name: Gordon_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 30}
+        - {x: 28, y: 42}
+        - {x: -17, y: 42}
+        - {x: -24, y: 41}
+        - {x: -24, y: 10}
+        - {x: -19, y: 0}
+        - {x: -2, y: 0}
+        - {x: -2, y: 2}
+        - {x: 3, y: 0}
+        - {x: 20, y: 0}
+    - name: Gordon_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 42}
+        - {x: -24, y: 42}
+        - {x: -24, y: 13}
+        - {x: -13, y: 0}
+        - {x: 17, y: 0}
+        - {x: 24, y: 13}
+        - {x: 28, y: 21}
+    - name: Gordon_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 30}
+        - {x: 26, y: 40}
+        - {x: 24, y: 42}
+        - {x: 6, y: 42}
+        - {x: 3, y: 41}
+        - {x: -15, y: 39}
+        - {x: -26, y: 35}
+        - {x: -26, y: 21}
+        - {x: -24, y: 14}
+        - {x: -19, y: 0}
+        - {x: -4, y: 0}
+        - {x: -4, y: 2}
+        - {x: 1, y: 0}
+        - {x: 18, y: 0}
+    - name: Gordon_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 42}
+        - {x: 6, y: 42}
+        - {x: 5, y: 41}
+        - {x: -21, y: 38}
+        - {x: -24, y: 36}
+        - {x: -24, y: 0}
+        - {x: 20, y: 0}
+        - {x: 24, y: 13}
+        - {x: 28, y: 31}
+    - name: Gordon_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 30}
+        - {x: 26, y: 42}
+        - {x: -7, y: 42}
+        - {x: -26, y: 37}
+        - {x: -26, y: 8}
+        - {x: -22, y: 0}
+        - {x: -4, y: 0}
+        - {x: -4, y: 2}
+        - {x: 2, y: 0}
+        - {x: 18, y: 0}
+    - name: Gordon_11
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 42}
+        - {x: -24, y: 15}
+        - {x: -22, y: 0}
+        - {x: 26, y: 0}
+        - {x: 26, y: 42}
+    - name: Gordon_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 42}
+        - {x: -24, y: 31}
+        - {x: -24, y: 0}
+        - {x: 19, y: 0}
+        - {x: 26, y: 9}
+        - {x: 26, y: 42}
+    - name: Gordon_13
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 42}
+        - {x: -24, y: 15}
+        - {x: -22, y: 0}
+        - {x: 26, y: 0}
+        - {x: 26, y: 42}
+    - name: Gordon_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 30}
+        - {x: 26, y: 42}
+        - {x: -7, y: 42}
+        - {x: -26, y: 37}
+        - {x: -26, y: 8}
+        - {x: -22, y: 0}
+        - {x: -4, y: 0}
+        - {x: -4, y: 2}
+        - {x: 2, y: 0}
+        - {x: 18, y: 0}
+    - name: Gordon_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 31}
+        - {x: -24, y: 2}
+        - {x: -21, y: 0}
+        - {x: 19, y: 0}
+        - {x: 26, y: 31}
+        - {x: 26, y: 42}
+        - {x: 3, y: 42}
+        - {x: -10, y: 38}
+    - name: Gordon_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 0}
+        - {x: 20, y: 0}
+        - {x: 26, y: 8}
+        - {x: 26, y: 42}
+        - {x: -1, y: 42}
+        - {x: -20, y: 36}
+    - name: Gordon_17
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 42}
+        - {x: -18, y: 23}
+        - {x: -18, y: 2}
+        - {x: -16, y: 0}
+        - {x: 19, y: 0}
+        - {x: 26, y: 28}
+        - {x: 26, y: 42}
+    - name: Gordon_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 64
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 42}
+        - {x: -18, y: 23}
+        - {x: -18, y: 2}
+        - {x: -16, y: 0}
+        - {x: 19, y: 0}
+        - {x: 26, y: 28}
+        - {x: 26, y: 42}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
